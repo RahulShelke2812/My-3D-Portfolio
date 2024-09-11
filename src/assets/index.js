@@ -22,18 +22,21 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import meta from "./company/Quantium.png";
+import shopify from "./company/IBM.png";
 // import starbucks from "./company/starbucks.png";
 import starbucks from "./company/rtmnu.png";
-
-import tesla from "./company/tesla.png";
+import tesla from "./company/JPMorgan.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import jobit from "./Blockchain.png";
 import tripguide from "./tripguide.png";
+import price  from "./Price.png";
+// import { Blockchain } from "./tech/Blockchain.jpeg";
+
 
 export {
+  price,
   logo,
   backend,
   creator,
