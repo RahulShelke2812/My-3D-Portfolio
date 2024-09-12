@@ -123,7 +123,7 @@ import {
       company_name: "J.P. Morgan Chase & Co",
       icon: tesla,
       iconBg: "#383E56",
-      date: "January 2024 - March 2021",
+      date: "January 2024 - March 2024",
       points: [
         "Participated in the entire application lifecycle, focusing on building new features and debugging.",
         "Developed and maintained backend services using Python and Django.",
@@ -135,7 +135,7 @@ import {
       company_name: "Quantium Company",
       icon: meta,
       iconBg: "#383E56",
-      date: "Feb 2024 - April 2021",
+      date: "Feb 2024 - April 2024",
       points: [
         "Assisted in developing data pipelines and ETL processes.",
         "Worked with cloud services for data storage and processing. ",
