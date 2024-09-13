@@ -135,7 +135,7 @@ import {
       company_name: "Quantium Company",
       icon: meta,
       iconBg: "#383E56",
-      date: "Feb 2024 - April 2024",
+      date: "April 2024 - June 2024",
       points: [
         "Assisted in developing data pipelines and ETL processes.",
         "Worked with cloud services for data storage and processing. ",
